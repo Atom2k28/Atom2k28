@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My Github Stats Card](https://github-readme-stats.vercel.app/api?username=atom2k28&theme=gotham&show_icons=true)
+
+
+
+
+
+
+<img src = "https://visitor-badge.laobi.icu/badge?page_id=Atom2k28"> </img>
